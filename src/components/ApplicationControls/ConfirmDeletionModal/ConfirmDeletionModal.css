@@ -1,0 +1,13 @@
+.confirm-modal {
+    width: 20%;
+    height: 20%;
+}
+
+.confirm-modal-content {
+    margin: 10%;
+}
+
+.confirm-buttons {
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,23 @@
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 40px 0 20px;
+    font-size: 1.5em;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 30%;
+}
+
+.counter {
+    font-size: 1.2rem;
+    flex-grow: 1;
+}
+
+.hide-button {
+    cursor: pointer;
+}

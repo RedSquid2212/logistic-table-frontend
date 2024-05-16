@@ -1,0 +1,19 @@
+.info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 5%;
+    font-size: 1.3rem;
+}
+
+.info {
+    font-size: 1.1rem;
+    margin-left: 20px;
+}
+
+.info-field {
+    background-color: #ffbe5c;
+    border-radius: 5px;
+    padding: 6px;
+    color: #251b25;
+}
